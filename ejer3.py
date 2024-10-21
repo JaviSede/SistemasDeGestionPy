@@ -31,6 +31,9 @@ print(i * s)
 
 # No se puede operar entre diccionarios y colecciones ya que no son listas compatibles
 # print(h - c)
-t = None
-t = t + a
-print(t)
+#t = None
+#t = t + a
+#print(t)
+
+print(c.intersection(c))
+print(a.intersection(c))
